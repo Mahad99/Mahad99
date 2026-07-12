@@ -62,10 +62,10 @@ Currently exploring agentic workflows, RAG pipelines, and vector-memory systems.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mahad99&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Mahad's GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahad99&layout=compact&hide_border=true&theme=default" alt="Top languages" height="165"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mahad99&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Mahad's GitHub stats" height="165"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mahad99&layout=compact&hide_border=true&theme=default" alt="Top languages" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahad99&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=Mahad99&hide_border=true" alt="GitHub streak" />
 
 </div>
 
