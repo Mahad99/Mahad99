@@ -75,5 +75,5 @@ Currently exploring agentic workflows, RAG pipelines, and vector-memory systems.
 ---
 
 <div align="center">
-<sub>Based in Europe · Available for remote contract work · Reach me at mahadsaleem74@gmail.com</sub>
+<sub>Based in Germany 🇩🇪 · Available for remote contract work · Reach me at mahadsaleem74@gmail.com</sub>
 </div>
