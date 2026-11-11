@@ -15,8 +15,7 @@ Currently exploring agentic workflows, RAG pipelines, and vector-memory systems.
 
 - Building **AI automation pipelines** (n8n, Make.com, Claude API, Groq API) for lead qualification, CRM automation, and support workflows
 - Shipping full-stack apps with **React, TypeScript, Node.js/Express**
-- M.Sc. student at **Technische Universität Ilmenau**, Germany
-- 🟢 **Open to work** — AI Automation & Full-Stack roles, Germany (on-site/hybrid/remote)
+- 🟢 **Open to work** — remote contract & freelance: Full-Stack / Frontend (React, WordPress/WooCommerce), AI Automation, ERPNext/Frappe · Europe, US & Gulf
 
 ### 🚀 Featured Projects
 
@@ -76,5 +75,5 @@ Currently exploring agentic workflows, RAG pipelines, and vector-memory systems.
 ---
 
 <div align="center">
-<sub>Based in Karachi, with strong ties to Germany 🇩🇪 · Open to relocating within Germany</sub>
+<sub>Based in Europe · Available for remote contract work · Reach me at mahadsaleem74@gmail.com</sub>
 </div>
